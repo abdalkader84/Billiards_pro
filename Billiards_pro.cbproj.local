@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/11/05 16:18:45.000.777,=C:\Users\abdalkader\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/11/05 16:18:45.000.879,=C:\Users\abdalkader\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021/01/31 15:11:49.000.822,=C:\Users\abdalkader\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021/01/31 15:11:50.000.127,=C:\Users\abdalkader\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/01/31 15:12:06.000.058,C:\Users\abdalkader\Desktop\new_fishing\main.h=C:\Users\abdalkader\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2021/01/31 15:12:06.000.058,C:\Users\abdalkader\Desktop\new_fishing\main.fmx=C:\Users\abdalkader\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2021/01/31 15:12:06.000.058,C:\Users\abdalkader\Desktop\new_fishing\main.cpp=C:\Users\abdalkader\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021/01/31 15:12:17.000.818,C:\Users\abdalkader\Desktop\new_fishing\Project1PCH1.h=C:\Users\abdalkader\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/01/31 15:12:24.000.753,C:\Users\abdalkader\Desktop\new_fishing\new_fishing.cbproj=C:\Users\abdalkader\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2021/01/31 15:12:24.000.638,C:\Users\abdalkader\Desktop\new_fishing\new_fishingPCH1.h=C:\Users\abdalkader\Desktop\new_fishing\Project1PCH1.h</Transaction>
+    <Transaction>2021/05/01 03:31:38.000.676,D:\New folder\my_cpp_projects\new_fishing\new_fishing.cbproj=D:\New folder\my_cpp_projects\new_fishing\snake_pro.cbproj</Transaction>
+    <Transaction>2021/05/01 03:31:38.000.608,D:\New folder\my_cpp_projects\new_fishing\new_fishingPCH1.h=D:\New folder\my_cpp_projects\new_fishing\snake_proPCH1.h</Transaction>
+    <Transaction>2021/05/05 01:05:02.000.569,D:\New folder\my_cpp_projects\‏‏snake_pro_good\snake_proPCH1.h=D:\New folder\my_cpp_projects\‏‏snake_pro_good\Billyards_proPCH1.h</Transaction>
+    <Transaction>2021/05/05 01:05:02.000.677,D:\New folder\my_cpp_projects\‏‏snake_pro_good\snake_pro.cbproj=D:\New folder\my_cpp_projects\‏‏snake_pro_good\Billyards_pro.cbproj</Transaction>
+    <Transaction>2021/05/05 13:49:51.000.309,D:\CPP_pro\Billyards_pro\Billiards_proPCH1.h=D:\CPP_pro\Billyards_pro\Billyards_proPCH1.h</Transaction>
+    <Transaction>2021/05/05 13:49:51.000.343,D:\CPP_pro\Billyards_pro\Billiards_pro.cbproj=D:\CPP_pro\Billyards_pro\Billyards_pro.cbproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android="4d0025d0dc0dc100"/>
+	</ActiveMobileDevice>
+</BorlandProject>
